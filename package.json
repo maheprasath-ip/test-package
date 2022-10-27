@@ -1,12 +1,12 @@
 {
-  "name": "@indpro-blr/react-datepicker",
+  "name": "@indpro-blr/datepicker",
   "version": "1.0.4",
   "description": "Flexible, Reusable, Mobile friendly DatePicker Component",
   "author": "y0c",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/indpro-blr/react-datepicker",
+  "homepage": "https://github.com/indpro-blr/datepicker",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --mode development --config webpack.config.dev.js",
     "build": "npx tsc",
